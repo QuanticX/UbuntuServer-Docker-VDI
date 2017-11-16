@@ -7,17 +7,17 @@ Just create a new Virtual Machine with VirtualBox and add the downloaded `.vdi`
 
 ##### VDI Details
 
-** Processor Architecture  : ** 64 bits    
-** VDI Size : **  25 GB  
-** Main language : **  Spanish  
-** SSH : ** Enabled
+**Processor Architecture** :  64 bits    
+**VDI Size** :   25 GB  
+**Main language** :  Spanish  
+**SSH** :  Enabled
 
 ----
 
 ##### Ubuntu Login Credentials
 
-** Username : ** ubtadmin    
-** Password : ** 123  
+**Username** : ubtadmin    
+**Password** : 123  
 
 ----
 
