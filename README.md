@@ -27,7 +27,7 @@ Just create a new Virtual Machine with VirtualBox and add the downloaded `.vdi`
 + If you downloaded a zipped file, unzip it.  
 + Open the `UbuntuServer-Docker-VDI` folder.  
 + Open the `SplitZip` folder.  
-+ Unzip the file ended with `.001` extension [aka Part 1 of the Split Zip].  
++ Unzip the file ended with `.001` extension [aka Part 1 of the splitted zip].  
 + You should have the `.vdi` unzipped.
 
 ----
