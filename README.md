@@ -23,7 +23,7 @@ Just create a new Virtual Machine with VirtualBox and add the downloaded `.vdi`
 
 ### How to download and unzip the file
 
-+ Clone the master branch or download the [release](https://github.com/amgxv/UbuntuServer-Docker-VDI/archive/v1.zip).  
++ Clone the master branch or download the [release](https://github.com/QuanticX/UbuntuServer-Docker-VDI/archive/v1.zip).  
 + If you downloaded a zipped file, unzip it.  
 + Open the `UbuntuServer-Docker-VDI` folder.  
 + Open the `SplitZip` folder.  
